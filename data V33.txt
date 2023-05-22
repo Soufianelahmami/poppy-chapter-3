@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Poppy's passion for music was evident from a young age. Growing up in a small town, she found solace in melodies and lyrics, ","photo2":"https://iili.io/HgST567.jpg"},
+  {"desc3":"often spending hours singing and writing songs in her bedroom. Encouraged by her supportive family, Poppy began honing her craft,","photo3":"https://iili.io/HgSTaae.jpg"},
+  {"desc4":"participating in talent shows and local events, gaining recognition for her unique voice and stage presence.","photo4":"https://iili.io/HgSTRGS.jpg"},
+  {"desc5":"Poppy's breakthrough moment came when a music producer, attending one of her performances, recognized her exceptional talent.","photo5":"https://iili.io/HgSTYF9.jpg"},
+  {"descd":" Impressed by her vocal abilities and natural charisma, he offered her the opportunity of a lifetime: a recording contract with a renowned record label. ","photod":"https://iili.io/HgSTc8u.jpg"}
    ]
  
 }
